@@ -5,7 +5,7 @@
 # Version: 1.0
 # Auhor: Ostap Konchevych
 # Website: www.konchevych.pp.ua
-# Github: 
+# Github: https://github.com/OstapKonchevych
 
  
  WorkDir="" #Temporary files folder
